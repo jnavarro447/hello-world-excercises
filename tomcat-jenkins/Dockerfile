@@ -30,3 +30,4 @@ WORKDIR /usr/local/tomcat/webapps
 # "/usr/local/tomcat/bin/startup.sh"
 
 CMD ["bash"]
+
